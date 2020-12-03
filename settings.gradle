@@ -1,0 +1,3 @@
+include ':instagramlogin'
+include ':app'
+rootProject.name = "InstagramLogin"
