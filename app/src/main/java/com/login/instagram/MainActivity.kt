@@ -28,9 +28,9 @@ class MainActivity : AppCompatActivity(), OnInstLoginListener {
 
     fun onClickText(view: View) {
         val options = LoginOptions.init()
-                .setClientId("1296976470652587")
-                .setClientSecret("bcb5057091e933df14a9103b1b83365b")
-                .setRedirectionUrl("https://www.netsetsoftware.com/")
+                .setClientId("")
+                .setClientSecret("")
+                .setRedirectionUrl("")
                 .build(this@MainActivity)
         InstagramLoginHelper.doLogin(this, options)
     }
