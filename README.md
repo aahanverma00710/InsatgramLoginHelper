@@ -46,5 +46,5 @@ val options = LoginOptions.init()
  
 ```
 
-##Note
+## Note
 All the funconality is in WebView and only returns Name & SocialId(unique id used for login) of the user.
