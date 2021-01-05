@@ -4,12 +4,13 @@ Goal is to implement Instagram Soical Login
 
 ## Using this library you can implement social login.
 
-*Steps To Implement Login.
--Create an app on facbook developer console.
--Look for Instagram login.
--After creating App fetch following things:
--Client-Id
--Client-Secret-id
+*Steps To Implement Login.<br>
+-Create an app on facbook developer console.<br>
+-Look for Instagram login.<br><br>
+
+*After creating App fetch following things:<br><br>
+-Client-Id<br>
+-Client-Secret-id<br>
 -Callback Url
 
 ## Usage
@@ -20,8 +21,8 @@ dependencies {
 }
 ```
 
-Sample Code
-With preview:
+### Sample Code
+
 Java:
 ```
 LoginOptions options = new LoginOptions.init()
