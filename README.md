@@ -2,7 +2,7 @@
 
 Goal is to implement Instagram Soical Login
 
-##Using this library you can implement social login.
+## Using this library you can implement social login.
 
 *Steps To Implement Login.
 -Create an app on facbook developer console.
